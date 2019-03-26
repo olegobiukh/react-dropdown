@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-dropdown/build/static/css/main.dd04d8e4.chunk.css",
-  "main.js": "/react-dropdown/build/static/js/main.28e3c223.chunk.js",
-  "main.js.map": "/react-dropdown/build/static/js/main.28e3c223.chunk.js.map",
-  "runtime~main.js": "/react-dropdown/build/static/js/runtime~main.26610646.js",
-  "runtime~main.js.map": "/react-dropdown/build/static/js/runtime~main.26610646.js.map",
-  "static/js/2.b934461c.chunk.js": "/react-dropdown/build/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/react-dropdown/build/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/react-dropdown/build/index.html",
-  "precache-manifest.b98a809af761fa449db422b82d9bd6ce.js": "/react-dropdown/build/precache-manifest.b98a809af761fa449db422b82d9bd6ce.js",
-  "service-worker.js": "/react-dropdown/build/service-worker.js",
-  "static/css/main.dd04d8e4.chunk.css.map": "/react-dropdown/build/static/css/main.dd04d8e4.chunk.css.map",
-  "static/media/logo.svg": "/react-dropdown/build/static/media/logo.5d5d9eef.svg"
+  "main.css": "/react-dropdown/static/css/main.dd04d8e4.chunk.css",
+  "main.js": "/react-dropdown/static/js/main.9521330d.chunk.js",
+  "main.js.map": "/react-dropdown/static/js/main.9521330d.chunk.js.map",
+  "runtime~main.js": "/react-dropdown/static/js/runtime~main.cb2e0b7c.js",
+  "runtime~main.js.map": "/react-dropdown/static/js/runtime~main.cb2e0b7c.js.map",
+  "static/js/2.b934461c.chunk.js": "/react-dropdown/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/react-dropdown/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/react-dropdown/index.html",
+  "precache-manifest.bf8961081502e70765ee09f04ea02805.js": "/react-dropdown/precache-manifest.bf8961081502e70765ee09f04ea02805.js",
+  "service-worker.js": "/react-dropdown/service-worker.js",
+  "static/css/main.dd04d8e4.chunk.css.map": "/react-dropdown/static/css/main.dd04d8e4.chunk.css.map",
+  "static/media/logo.svg": "/react-dropdown/static/media/logo.5d5d9eef.svg"
 }
