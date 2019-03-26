@@ -1,26 +1,46 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Items from "./components/Items";
+import Selected from "./components/Selected";
+import { SelectProvider } from "./SelectContext";
 
-class App extends Component {
+const items = ["select", "delete", "rename", "preview", "separated link"];
+
+class App extends React.Component {
+  state = {
+    selected: "select",
+    toggle: false,
+    items
+  };
+
+  toggleList = () => {
+    const { toggle } = this.state;
+
+    this.setState({ toggle: !toggle });
+  };
+
+  getSelected = item => {
+    const { toggle } = this.state;
+
+    this.setState({ selected: item, toggle: !toggle });
+  };
+
   render() {
+    const { selected, items, toggle } = this.state;
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <SelectProvider
+        value={{
+          items,
+          toggle,
+          selected,
+          onSelected: this.getSelected,
+          ontoggleList: this.toggleList
+        }}
+      >
+        <div className="Select">
+          <Selected toggle={toggle} />
+          <Items />
+        </div>
+      </SelectProvider>
     );
   }
 }
