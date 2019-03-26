@@ -1,14 +1,13 @@
 {
-  "main.css": "/react-dropdown/static/css/main.dd04d8e4.chunk.css",
-  "main.js": "/react-dropdown/static/js/main.9521330d.chunk.js",
-  "main.js.map": "/react-dropdown/static/js/main.9521330d.chunk.js.map",
+  "main.css": "/react-dropdown/static/css/main.50038e63.chunk.css",
+  "main.js": "/react-dropdown/static/js/main.899a9e14.chunk.js",
+  "main.js.map": "/react-dropdown/static/js/main.899a9e14.chunk.js.map",
   "runtime~main.js": "/react-dropdown/static/js/runtime~main.cb2e0b7c.js",
   "runtime~main.js.map": "/react-dropdown/static/js/runtime~main.cb2e0b7c.js.map",
-  "static/js/2.b934461c.chunk.js": "/react-dropdown/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/react-dropdown/static/js/2.b934461c.chunk.js.map",
+  "static/js/2.9b81f02c.chunk.js": "/react-dropdown/static/js/2.9b81f02c.chunk.js",
+  "static/js/2.9b81f02c.chunk.js.map": "/react-dropdown/static/js/2.9b81f02c.chunk.js.map",
   "index.html": "/react-dropdown/index.html",
-  "precache-manifest.bf8961081502e70765ee09f04ea02805.js": "/react-dropdown/precache-manifest.bf8961081502e70765ee09f04ea02805.js",
+  "precache-manifest.cb36f9db39ba13f2417f3de16572552b.js": "/react-dropdown/precache-manifest.cb36f9db39ba13f2417f3de16572552b.js",
   "service-worker.js": "/react-dropdown/service-worker.js",
-  "static/css/main.dd04d8e4.chunk.css.map": "/react-dropdown/static/css/main.dd04d8e4.chunk.css.map",
-  "static/media/logo.svg": "/react-dropdown/static/media/logo.5d5d9eef.svg"
+  "static/css/main.50038e63.chunk.css.map": "/react-dropdown/static/css/main.50038e63.chunk.css.map"
 }
